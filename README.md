@@ -1,3 +1,3 @@
 # js-task-list
 
-[Demo](https://ludmilajalcova.github.io/js-task-list)
+[Demo](https://ludmilaschlegelova.github.io/js-task-list)
